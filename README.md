@@ -24,5 +24,4 @@ Tech Stack
 - Matplotlib
 - Pickle (for saving/loading model parameters)
 
-ttps://github.com/yourusername/cifar10-numpy-mlp.git
-cd cifar10-numpy-mlp
+
